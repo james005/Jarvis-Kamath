@@ -11,8 +11,8 @@ function getStringLiteral(theFunction) {
 
 //login to facebook
 login({
-    email: "YOUREMAIL",
-    password: "YOURPASSWORD"
+    email: "liujiaqi005@gmail.com",
+    password: "vision5555"
 }, function callback(err, api) {
     if (err) return console.error(err);
 
